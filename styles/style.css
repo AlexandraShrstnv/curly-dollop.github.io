@@ -1,0 +1,31 @@
+html {
+  font-size: 13px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #390380;
+  background-color: #DFCAFB;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #390380;
+  text-shadow: 5px 5px 5px grey;
+}
+
+p, li {
+  font-size: 15px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #EFD90F;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
